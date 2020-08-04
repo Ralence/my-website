@@ -374,6 +374,7 @@ h6 {
 }
 
 #contact-form textarea {
+  height: fit-content;
   min-height: 100px;
   font-size: 14px;
 }
